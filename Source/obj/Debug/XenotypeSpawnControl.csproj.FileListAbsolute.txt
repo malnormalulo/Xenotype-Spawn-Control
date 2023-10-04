@@ -1,0 +1,7 @@
+C:\Users\Malnormalulo\code\github.com\malnormalulo\Xenotype-Spawn-Control\Source\obj\Debug\XenotypeSpawnControl.csproj.AssemblyReference.cache
+C:\Users\Malnormalulo\code\github.com\malnormalulo\Xenotype-Spawn-Control\Source\obj\Debug\XenotypeSpawnControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malnormalulo\code\github.com\malnormalulo\Xenotype-Spawn-Control\Source\obj\Debug\XenotypeSpawnControl.AssemblyInfoInputs.cache
+C:\Users\Malnormalulo\code\github.com\malnormalulo\Xenotype-Spawn-Control\Source\obj\Debug\XenotypeSpawnControl.AssemblyInfo.cs
+C:\Users\Malnormalulo\code\github.com\malnormalulo\Xenotype-Spawn-Control\Source\obj\Debug\XenotypeSpawnControl.csproj.CoreCompileInputs.cache
+C:\Users\Malnormalulo\code\github.com\malnormalulo\Xenotype-Spawn-Control\Assemblies\XenotypeSpawnControl.dll
+C:\Users\Malnormalulo\code\github.com\malnormalulo\Xenotype-Spawn-Control\Source\obj\Debug\XenotypeSpawnControl.dll

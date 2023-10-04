@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Malnormalulo\\code\\github.com\\malnormalulo\\Xenotype-Spawn-Control\\Source\\XenotypeSpawnControl.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Malnormalulo\\code\\github.com\\malnormalulo\\Xenotype-Spawn-Control\\Source\\XenotypeSpawnControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Malnormalulo\\code\\github.com\\malnormalulo\\Xenotype-Spawn-Control\\Source\\XenotypeSpawnControl.csproj",
+        "projectName": "XenotypeSpawnControl",
+        "projectPath": "C:\\Users\\Malnormalulo\\code\\github.com\\malnormalulo\\Xenotype-Spawn-Control\\Source\\XenotypeSpawnControl.csproj",
+        "packagesPath": "C:\\Users\\Malnormalulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Malnormalulo\\code\\github.com\\malnormalulo\\Xenotype-Spawn-Control\\Source\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Malnormalulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Krafs.Publicizer": {
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "Krafs.Rimworld.Ref": {
+              "target": "Package",
+              "version": "[1.4.*-*, )"
+            },
+            "Lib.Harmony": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "Nullable": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
